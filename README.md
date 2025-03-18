@@ -7,3 +7,5 @@ In your notes copy the table and complete it.
 Do the coding task in C#
 
 ![image](https://github.com/user-attachments/assets/62bf9c6f-4e0a-4a07-acb7-4868ed7c2d69)
+
+![image](https://github.com/user-attachments/assets/34b9845e-ca9f-4d94-948c-a38435d1683f)
